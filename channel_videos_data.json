@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "2TEmY_B4ry6IGczNegs4v-mUvCk",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "PK",
+    "pageInfo": {
+        "totalResults": 767417,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VuOJZ7kk9n6tBxL0yk23tVYpJVU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "65ciAONXv0M"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-11T16:12:14Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Let&#39;s Talk About Panels",
+                "description": "Let's talk about the Panels app. Panels: https://www.panels.art/ ZoneOfTech Review: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/65ciAONXv0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/65ciAONXv0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/65ciAONXv0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-11T16:12:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3pK161Owe4dlIzvytTEAO1lnTSM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vJEbP2Vdq2U"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-03T02:13:54Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "What&#39;s going on with Windows Laptops?",
+                "description": "Windows ARM laptops are finally having a moment and I'm loving it. See inside your smartphone or laptop with dbrand at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vJEbP2Vdq2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vJEbP2Vdq2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vJEbP2Vdq2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-03T02:13:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EfNaxktM9YtwzN5EI6jG_p1KfoM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_9prH7NFmLI"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-26T18:14:38Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "My FBI Declassified Story",
+                "description": "That time the FBI visited the studio... Storytime podcast episode coming soon: https://youtube.com/Waveform The original Escobar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_9prH7NFmLI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_9prH7NFmLI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_9prH7NFmLI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-26T18:14:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5-ZF63ijtcswXlsSWzDf_hpVHrM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qkYoBNdcXBU"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-11T07:28:19Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "WWDC 2024 Recap: Is Apple Intelligence Legit?",
+                "description": "Apple dropped new software for iPhone, iPad, AI way more. This is everything you need to know. MKBHD Merch: http://shop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qkYoBNdcXBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qkYoBNdcXBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qkYoBNdcXBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-11T07:28:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nU9DNJjTpnlZ2cEC-lI5qwSLYSo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kkX8_nbBqBQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-28T21:40:15Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Android 15 Hands-On: Top 5 Features!",
+                "description": "Android 15 features are more subtle and hidden than ever. These are the best ones MKBHD Merch: http://shop.MKBHD.com Tech ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kkX8_nbBqBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kkX8_nbBqBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kkX8_nbBqBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-28T21:40:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eQjiXSn7O0YAr607-yIPXPH2_r4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-T0MGehwWvE"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-08T02:06:33Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "M4 iPad Pro Impressions: Well This is Awkward",
+                "description": "I don't know who was asking for a thinner iPad, but we got it Get our first MKBHD Ridge Wallet and 10% off with code MKBHD at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-T0MGehwWvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-T0MGehwWvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-T0MGehwWvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-08T02:06:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zJVDOhjh9E0n6x4GYidtJelnhIQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ddTV12hErTc"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-30T00:21:20Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Rabbit R1: Barely Reviewable",
+                "description": "AI in a Box. But a different box. Get a dbrand skin and screen protector at https://dbrand.com/rabbit MKBHD Merch: http://shop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ddTV12hErTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ddTV12hErTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ddTV12hErTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-30T00:21:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ByV_dqMkaS5R5ygMYNzFdgwoVD0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VdOlqcg9uMQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-05T12:28:28Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Nothing Phone 2A Review: Flashy Good Deal!",
+                "description": "Nothing Phone 2a is an impressive and smooth phone for $350! Get a dbrand something skin at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VdOlqcg9uMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VdOlqcg9uMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VdOlqcg9uMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-05T12:28:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rDz-BLsDIxo4wEdR7G_w8BsDRPY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hOi8s2wkX4A"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-13T01:13:02Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Apple Vision Pro is Missing Something...",
+                "description": "I already have a wishlist for the next generation Apple Vision Pro iFixit Teardown: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hOi8s2wkX4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hOi8s2wkX4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hOi8s2wkX4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-13T01:13:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qSU7ae3thyKDZlepLi2ey2V1G-s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4MbshUkkA38"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-30T15:10:21Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "$3500 Apple Vision Pro: What Comes in the Box!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4MbshUkkA38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4MbshUkkA38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4MbshUkkA38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-30T15:10:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WAw_jSMQw4iD_JSXOIWZAnNrHh4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lRUtHtqfCGA"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-13T15:34:54Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Nothing Phone 2 Review: A Real Personality!",
+                "description": "The Nothing Phone 2 has a neat design, but it's really more about the software. Threads: http://threads.net/@MKBHD MKBHD ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lRUtHtqfCGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lRUtHtqfCGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lRUtHtqfCGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-13T15:34:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DqrPd7Qbcry3zmwS8Ba_ESPtFgc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kvN5_GXlg2Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-15T21:06:03Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Apple&#39;s Forbidden Words",
+                "description": "There's a few words that Apple literally never says on stage. Just something interesting I noticed MKBHD Merch: http://shop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kvN5_GXlg2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kvN5_GXlg2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kvN5_GXlg2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-15T21:06:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "itqw9mCJ__bPxwiPFT4aJXFo5-M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1TCuf_Qcfv8"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-12T13:00:43Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "15&quot; MacBook Air M2 Review: The Obvious Thing!",
+                "description": "The bigger MacBook Air made too much sense. 15\" M2 MacBook Air: https://geni.us/yDeBrV1 MKBHD Merch: http://shop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1TCuf_Qcfv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1TCuf_Qcfv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1TCuf_Qcfv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-12T13:00:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6bJh37if8oRRdzVwEvnnIV2O_90",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OFvXuyITwBI"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-06T06:39:07Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Apple Vision Pro Impressions!",
+                "description": "I tried Apple's first ever spatial computing device, a $3500 VR headset. These are my honest thoughts. Google Project Starline: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OFvXuyITwBI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OFvXuyITwBI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OFvXuyITwBI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-06T06:39:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ESTuJk9VWlr_vmB0_-GGQocTW2Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PCp1BmME6QA"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-03T17:12:19Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "How Does Sony Keep Doing This?",
+                "description": "Sony Xperia 1 V will be underrated again... and I'm not sure how long this can last. MKBHD Merch: http://shop.MKBHD.com The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PCp1BmME6QA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PCp1BmME6QA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PCp1BmME6QA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-03T17:12:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O3ANJGhKc-7Fc4Rsh5E-b3hvqEo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8om1eJrO2lU"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-01T18:00:42Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "RAZR+ Impressions: Is This What You Wanted?",
+                "description": "Motorola's folding phone feels like the beginning of a second generation in 1 (huge) way MKBHD Merch: http://shop.MKBHD.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8om1eJrO2lU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8om1eJrO2lU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8om1eJrO2lU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-01T18:00:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rz4LroEITbHWLfZkxerNbG6WJLs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UXB9bnuyZb4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-19T17:59:11Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Most Tech I&#39;ve Ever Seen in a Car!",
+                "description": "The BMW i7 is sick. Also subscribe to @forrestsautoreviewsofficial! https://www.youtube.com/@forrestsautoreviewsofficial.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UXB9bnuyZb4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UXB9bnuyZb4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UXB9bnuyZb4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-19T17:59:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xMxlKx71d0V1-vQ2gLuOfsOtwpU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J1oEWiUsKgU"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-18T03:05:40Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "I Tried a Secret Google Project!",
+                "description": "An exclusive first look and footage of Google Project Starline! The Studio reactions: https://youtu.be/J0urPcc1GWs MKBHD Merch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J1oEWiUsKgU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J1oEWiUsKgU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J1oEWiUsKgU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-18T03:05:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7-8jBrrxT9JE083VmMFywaWZKgg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LRJPk9BmJY4"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-10T18:43:35Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Google Pixel 7A Review: New Price!",
+                "description": "The price went up, as part of Google's new strategy. Is it worth it? dbrand Teardown skin: http://dbrand.com/MKBHD (Code ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LRJPk9BmJY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LRJPk9BmJY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LRJPk9BmJY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-10T18:43:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "B1LtvtyiPFDVwITVNHPubN7mj6U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cTxJ5oLuxkM"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-01T01:03:55Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Flagship vs Midrange Debate: Galaxy A54 Review!",
+                "description": "How close is a midrange phone actually to a flagship in 2023? MKBHD Merch: http://shop.MKBHD.com Samsung Galaxy A54: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cTxJ5oLuxkM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cTxJ5oLuxkM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cTxJ5oLuxkM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-01T01:03:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ITJsFhudjV_Jq-HEvlYG_fpIdqY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "REVveXIMk7c"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-28T13:01:17Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "OnePlus Made an iPad!",
+                "description": "(A better value iPad) The OnePlus Pad is $479.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/REVveXIMk7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/REVveXIMk7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/REVveXIMk7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-28T13:01:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yoblmV6bVEbmnBpFeu2aq7XTUKU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1eI8HpJtq-s"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T14:59:45Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "I Made My Own Sneaker! M251",
+                "description": "To get the shoes: http://atoms.com/MKBHD First 2300 orders ship instantly! Everything after that will ship in 9 weeks, only ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1eI8HpJtq-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1eI8HpJtq-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1eI8HpJtq-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T14:59:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HDxpQ8mgN47DXmfeKr7obvtQS60",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-BwUyTrU9fo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-20T22:02:23Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "I Spent $40,000 to Unbox a Sealed Original iPhone!",
+                "description": "This original sealed iPhone cost $40000. I regret (almost) nothing Original iPhone vs modern iPhone: https://youtu.be/zIjngBAxTr4 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-BwUyTrU9fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-BwUyTrU9fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-BwUyTrU9fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-20T22:02:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-2mibTfqswjLZ9YQFPmFF5mv2IA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wR-0knMVSGw"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T23:20:19Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Rivian R1S Is... The Best SUV Ever?",
+                "description": "Rivian R1S is an awesome, expensive SUV. That's on purpose. The podcast with RJ Scaringe: https://youtu.be/RdjDDtHvUXA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wR-0knMVSGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wR-0knMVSGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wR-0knMVSGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T23:20:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MUdQI0iP13rVbI7zB-NWrH35cCo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HKvo6acp5aI"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-08T04:45:06Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The AI Assistant Battle! (2023)",
+                "description": "Bing vs Google. Bard vs ChatGPT. A winner will be crowned... For now. MKBHD Merch: http://shop.MKBHD.com Tech I'm using ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HKvo6acp5aI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HKvo6acp5aI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HKvo6acp5aI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-08T04:45:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zo3-jLTpgfHIW8B0weOaZvf4KCw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AFthdsIcOxw"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-03T23:28:54Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "This Voice is Entirely AI...",
+                "description": "I have a theory about this generative AI The full song: https://youtu.be/y7r6PAkFRfU MKBHD Merch: http://shop.MKBHD.com Tech ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AFthdsIcOxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AFthdsIcOxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AFthdsIcOxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-03T23:28:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gm_49j7QKlS0VmhBkJ946YEieQA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KG6Nu72Avqg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-31T20:36:10Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "This Product Shouldn&#39;t Exist",
+                "description": "But it does Magic mouse case: https://solumics.com/ (It's injection molded, not 3D printed)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KG6Nu72Avqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KG6Nu72Avqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KG6Nu72Avqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-31T20:36:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jO7VUYSAT4VHCRcYpfNEOy3AyRI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4PZSB9bV1Zg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-22T21:37:22Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Tesla&#39;s Wireless Charger: Explained!",
+                "description": "It's expensive. But it's built like a tank. https://shop.tesla.com/product/wireless-charging-platform.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4PZSB9bV1Zg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4PZSB9bV1Zg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4PZSB9bV1Zg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-22T21:37:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gggAgJmfDJ0I-crTGGtpXPXlL2c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b7zBJNmdImo"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-21T10:17:15Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "This Smartphone Hardware is Getting Crazy!",
+                "description": "This phone isn't even getting released outside of China, but damn, this hardware is good. That hoodie! http://shop.MKBHD.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7zBJNmdImo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7zBJNmdImo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7zBJNmdImo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-21T10:17:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6OyPBuJBvq0zmzekivm7zMw4Jko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a01edYZIfjc"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-09T17:43:16Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Yellow iPhone 14: Love it or Hate it?",
+                "description": "The new iPhone 14 yellow color is pretty... lemonade.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a01edYZIfjc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a01edYZIfjc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a01edYZIfjc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-09T17:43:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j9U-v5NVwXuVq5MiPuFYdhsSYV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mv9afG2Dm9I"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T21:17:26Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "I Said Yes to Every Email for a Month!",
+                "description": "I said yes to every review request I got for an entire month. I'm sorry? You're welcome? MKBHD Merch: http://shop.MKBHD.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mv9afG2Dm9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mv9afG2Dm9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mv9afG2Dm9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T21:17:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9WTxUW5Kvf6t0gZb6LuNPX8dc0M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W9_NAXd6VyE"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-27T21:29:39Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "A Rare iPhone Environmental W",
+                "description": "One small step...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W9_NAXd6VyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W9_NAXd6VyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W9_NAXd6VyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-27T21:29:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hj1jB5Qb5XDbKgLZnj_rzNBYRtM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7emz4zZ226E"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-18T01:09:30Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Biggest Problem with AI!",
+                "description": "AI and Bing and ChatGPT are out of control... this couldn't have gone any other way The WAN show: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7emz4zZ226E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7emz4zZ226E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7emz4zZ226E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-18T01:09:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kA43Goj_RZX0BxtUlLnduQWp5dI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zhoTX0RRXPQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-11T00:01:15Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Galaxy S23 Ultra is Better Than You Think!",
+                "description": "Samsung's Galaxy S23 Ultra is a great minor (minor great) upgrade. That shirt! http://shop.MKBHD.com Get dbrand's Damascus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zhoTX0RRXPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zhoTX0RRXPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zhoTX0RRXPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-11T00:01:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WTkHivteNmoIoiPshEL_bW4N1cQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3yEP4ooj1WI"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-07T15:15:15Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "OnePlus 11 Review: They&#39;re Back?!",
+                "description": "OnePlus 11 is a flagship for $699 MKBHD Merch: http://shop.MKBHD.com OnePlus 11: https://geni.us/xJWn9XK Tech I'm using ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3yEP4ooj1WI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3yEP4ooj1WI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3yEP4ooj1WI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-07T15:15:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5SZVVapuitYqYZcTxj4ztQxB8NI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7V_XEgSjrM0"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-25T15:10:58Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The #1 Most Overpriced Tech in 2023!",
+                "description": "It's not close.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7V_XEgSjrM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7V_XEgSjrM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7V_XEgSjrM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-25T15:10:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cPQhz1IEOjUGeuHr5zzfVIB4cYI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cneoANZKBGk"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-24T23:19:09Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "M2 Pro Mac Mini Review: Game Changer!",
+                "description": "This tiny computer out-benchmarks the base Mac Pro... and the price went down. M2 Max MacBook Pro Review: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cneoANZKBGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cneoANZKBGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cneoANZKBGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-24T23:19:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bPkZ0hHkaifugoyQn9roEmUEyCw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tmGDx9hVWwo"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-23T14:01:39Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "M2 Max MacBook Pro Review: Back to Bumps!",
+                "description": "It's an (impressive) bump instead of a quantum leap. MKBHD Merch: http://shop.MKBHD.com Get a dbrand skin for your MacBook ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tmGDx9hVWwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tmGDx9hVWwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tmGDx9hVWwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-23T14:01:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Kw2bmX6-2eMbjFnYCJkN7Meox3Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DUp3P12lZQM"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-20T19:51:58Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "4 Ways AI Can Save Microsoft!",
+                "description": "Hear me out. AI Clippy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DUp3P12lZQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DUp3P12lZQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DUp3P12lZQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-20T19:51:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GNDLzPb7-6zQUGEC_nPyLDEEqJc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1xiqOg1NRPA"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-12T16:00:58Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "This Phone is $169 - What&#39;s the Catch?",
+                "description": "Brand new budget phone vs older flagship phone? Moto G Play: https://geni.us/ROuPcTc MKBHD Merch: http://shop.MKBHD.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1xiqOg1NRPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1xiqOg1NRPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1xiqOg1NRPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-12T16:00:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dALenW0dReNIBcoPnBfgxSuOyT0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "88kd9tVwkH8"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-05T22:22:55Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "What is Happening with iPhone Camera?",
+                "description": "What exactly is happening with the iPhone's camera? The Blind Smartphone Camera Test: https://youtu.be/LQdjmGimh04 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/88kd9tVwkH8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/88kd9tVwkH8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/88kd9tVwkH8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-05T22:22:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W0YRoHOb382BMCCj2zxiAXP7gQ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5NjFuS_24v8"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-27T22:00:10Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Smartphone Awards 2022!",
+                "description": "The Best Smartphones of 2022! MKBHD Merch: http://shop.MKBHD.com Affiliate Links: Samsung S22 Ultra at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5NjFuS_24v8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5NjFuS_24v8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5NjFuS_24v8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-27T22:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6JQF2HQ9pWrl6JJtaB0vZT7FHQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q2MGqmuEdtU"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-24T21:50:39Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Voice Assistant Battle! (2023)",
+                "description": "Google Assistant vs Apple's Siri vs Amazon Alexa vs Samsung's Bixby. May the best voice assistant win! The Damascus skin is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q2MGqmuEdtU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q2MGqmuEdtU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q2MGqmuEdtU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-24T21:50:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pjijnZZ3U_Ga9RMi5VDPc1v3FII",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9nF0K2nJ7N8"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-14T23:08:36Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Tesla Self Driving vs Everyday Roads!",
+                "description": "An uninterrupted drive with Tesla Full Self Driving (beta) Version #: 10.69.3.1 (2022.36.20) Full PLAID review coming soon to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9nF0K2nJ7N8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9nF0K2nJ7N8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9nF0K2nJ7N8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-14T23:08:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ll8vSv7sWJM26zR8TVjpZ__mM5A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0gNauGdOkro"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-09T21:17:58Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "The Truth About AI Getting &quot;Creative&quot;",
+                "description": "Let's talk about AI Art, Lensa, ChatGPT, and why it's all deeper than you think. Save money with Karma at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0gNauGdOkro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0gNauGdOkro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0gNauGdOkro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-09T21:17:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qpPDT2n9ZkN_b4oz1qZsOuO0m2o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u2mUpkApObk"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-04T17:39:41Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "My Tech Hot Takes!",
+                "description": "Feathers may be ruffled. That shirt: http://shop.MKBHD.com Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds Playlist of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u2mUpkApObk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u2mUpkApObk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u2mUpkApObk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-04T17:39:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_UCc6VV9wjPIGfDPLJd0qkDSeu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O_WbmIIy4vk"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-18T21:48:49Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPad Pro M2: What Does &quot;Pro&quot; Even Mean?",
+                "description": "Don't let this distract you from the fact that the iPad Pro is still... really good MKBHD Merch: http://shop.MKBHD.com Damascus is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_WbmIIy4vk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_WbmIIy4vk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_WbmIIy4vk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-18T21:48:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qrscLXB8PLQ0qoli3eCXn-gciXU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4yjRIcRc9qY"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-11T19:27:05Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Lucid Air: How to One-up Tesla!",
+                "description": "Lucid Air beats Tesla's flagship at almost everything you can win at. Except one thing Auto Focus channel: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4yjRIcRc9qY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4yjRIcRc9qY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4yjRIcRc9qY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-11T19:27:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6YklSKNS3GNI32jvzQfZdrd9KVM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I1qsF0WQy8c"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-08T02:29:45Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "Dear Twitter!",
+                "description": "I can see you're going through a lot. But I have some suggestions. Me: http://twitter.com/MKBHD That shirt!: http://shop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I1qsF0WQy8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I1qsF0WQy8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I1qsF0WQy8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-08T02:29:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eRhODvZR2_bMUYS_zehrNdFUfbY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f5t2_-HoXb4"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-21T05:01:32Z",
+                "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+                "title": "iPhone\u2019s Crash Detection vs Roller Coasters",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f5t2_-HoXb4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f5t2_-HoXb4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f5t2_-HoXb4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marques Brownlee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-21T05:01:32Z"
+            }
+        }
+    ]
+}
