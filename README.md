@@ -5,5 +5,5 @@ this repo is created to host the code for video collection for creators in repli
 
 ##NOTE-BEWARE:
 
--> committing "mkbhd_shorts_page.html" this file will expose the API key)
+-> committing "mkbhd_shorts_page.html" this file will expose the API key
 - > ADD THIS FILE IN .gitignore
